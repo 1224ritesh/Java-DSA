@@ -1,4 +1,4 @@
-package BasicsQuestion;
+package BasicsQuestion_01;
 
 import java.util.Scanner;
 
